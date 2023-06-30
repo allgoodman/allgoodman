@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @allgoodman
 - 👀 I’m interested in cool DS stuff
-- 🌱 I’m currently learning Databricks & Azure
+- 🌱 I’m currently working on Databricks, Azure & Snowflake
 - 💞️ I’m looking to collaborate on same
 - 📫 How to reach me - @redmi4672@gmail.com
 
